@@ -3,7 +3,8 @@
 QUESTION:
 Q1. Create a scatter plot between cylinder vs Co2Emission (green color)
 Q2. Using scatter plot compare data   cylinder vs Co2Emission and Enginesize Vs Co2Emission using different colors
-Q3. Using scatter plot compare data   cylinder vs Co2Emission and Enginesize Vs Co2Emission and FuelConsumption_comb Co2Emission using different colors
+Q3. Using scatter plot compare data   cylinder vs Co2Emission and Enginesize Vs Co2Emission
+and FuelConsumption_comb Co2Emission using different colors
 Q4. Train your model with independent variable as cylinder and dependent variable as Co2Emission
 Q5. Train another model with independent variable as FuelConsumption_comb and dependent variable as Co2Emission
 Q6. Train your model on different train test ratio and train the models and note down their accuracies
